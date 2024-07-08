@@ -1,3 +1,3 @@
+// comment lancer le client mysqlsh et se connecter
 //lancer mysqlsh.exe
-//mysql -h hôte_mysql -u username -p
-create database kaamelott;
+-> \connect user@serveur -> cyril@localhost
